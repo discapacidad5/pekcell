@@ -1,2 +1,0 @@
-# pekcell
-Website Pekcell
